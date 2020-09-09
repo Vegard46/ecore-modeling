@@ -1,1 +1,1 @@
-# ecore
+# ecore-modeling
